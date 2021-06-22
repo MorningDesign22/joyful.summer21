@@ -305,6 +305,10 @@ main {
 .text-box > h3 {
     font-size: 23px;
 }
+.thisisimage {
+    font-size: 11px!important;
+}
+
 .price {
     font-size: 29px;
     color: #f8b500;
@@ -840,6 +844,7 @@ a {
     }
     .thisisimage {
          margin-bottom: 10px;
+         font-size: 11px!important;
     }
     .img {
         width: 100%;
